@@ -4,7 +4,7 @@
 Pose estimation for knee bend exercise
 
 
-	Here is a  robust algorithm to calculate successful rep count for knee bend exercise using mediapipe pose model and opencv.
+Here is a  robust algorithm to calculate successful rep count for knee bend exercise using mediapipe pose model and opencv.
 
 How model is working :
 
